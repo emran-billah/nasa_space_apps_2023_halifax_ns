@@ -14,9 +14,7 @@ Venue dates:
 - October 7-8, 2023
 </br></br>
 
-Conducted by:
+Point of contact:
 </br>
 - EMRAN BILLAH (emran.billah@gmail.com)
   - NASA Space Apps Local Lead
-  - NASA Space Apps Global Amplification Collaborator
-  - NASA Space Apps Collective
